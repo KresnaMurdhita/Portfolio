@@ -5,7 +5,7 @@
   "main": "index.js",
   "homepage": "https://kresnamurdhita.github.io/portfolio",
   "scripts": {
-    "sass": "node-sass -w dist/scss/ -o dist/css/ --output-style compressed",
+    "sass": "node-sass -w scss/ -o css/ --output-style compressed",
     "deploy": "gh-pages -d dist"
   },
   "author": "Kresna Murdhita Caraka",
