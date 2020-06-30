@@ -342,7 +342,7 @@ main#home h1 {
     transform: translate3d(100%, 0, 0);
   }
   .menu-branding .portrait {
-    background: url("../img/grayscale_mini.jpg");
+    background: url("../img/image1.jpg");
     width: 150px;
     height: 150px;
   }
